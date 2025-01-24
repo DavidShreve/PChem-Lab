@@ -16,3 +16,4 @@ Assignments:
 Datafiles used in the notebooks:
 * test.csv: absorbance  vs. time data collected in a kinetic experiment
 * protein.csv: atomic properties (element, environ descriptors, coordinates, mass, distance from center of mass) of atoms in a small protein
+# Raman_Spec_Analysis

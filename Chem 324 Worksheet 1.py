@@ -33,3 +33,4 @@ precision = -int(np.floor(np.log10(abs(error_ci95))))  # Determine decimal place
 rounded_mean = round(mean, precision)
 
 print(f"The 95% confidence interval is: {rounded_mean:.{precision}f} +/- {error_ci95:.2g}")
+
